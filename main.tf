@@ -1,6 +1,4 @@
-provider "aws" {
-  region = "ap-south-1"
-}
+
 
 resource "aws_instance" "instance" {
   ami           = var.ec2_details.ec2_ami
