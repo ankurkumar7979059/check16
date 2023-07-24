@@ -33,7 +33,7 @@ variable "ec2_details" {
     default ={
         ec2_ami  = "ami-0376ec8eacdf70aae" 
         instance_name= "t2.micro"
-        key_pair_name="shaheda_check12345"
+        key_pair_name="shaheda_check54334512345"
     }
 }
 
